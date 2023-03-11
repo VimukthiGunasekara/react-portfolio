@@ -1,0 +1,35 @@
+.profileImage {
+    height: 350px;
+    width: 350px;
+    border-radius: 100%;
+    border-style: solid;
+    border-color: var(--clr-white);
+}
+
+.fname {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: var(--clr-fg-alt);
+    font-size: 60px;
+}
+
+.name {
+    color: var(--clr-primary);
+}
+
+.title {
+    color: var(--clr-fg);
+    font-weight: 600;
+}
+
+.description {
+    color: var(--clr-fg);
+    font-size: 18px;
+}
+
+.social-icon {
+    height: 40px;
+    width: 40px;
+    color: var(--clr-primary);
+    margin: 15px;
+}
