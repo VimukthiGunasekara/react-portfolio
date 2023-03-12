@@ -1,10 +1,10 @@
 import React from 'react';
-import logo from '../../Assets/Images/profile-image.jpg';
+import logo from '../../../Assets/Images/profile-image.jpg';
 import './About.css';
 
 function About() {
   return (
-    <div className="main-container mt-5 mb-5">
+    <div className="main-container pt-5">
       <div className="container">
         <div className='jumbotron text-center'>
           <img className='profileImage' src={logo} alt="Logo" />
