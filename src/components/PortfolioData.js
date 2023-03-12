@@ -1,11 +1,11 @@
 import KB from '../Assets/Images/kanban-board.png';
 import BT from '../Assets/Images/budget-tracker.png';
 import Get from '../Assets/Images/get.gif';
-import PG from '../Assets/Images/password-generator.png';
+// import PG from '../Assets/Images/password-generator.png';
 import TPG from '../Assets/Images/team-profile-generator.png';
 import Vpac from '../Assets/Images/vpac.png';
 import WD from '../Assets/Images/weather-dashboard.png';
-import WDS from '../Assets/Images/work-day-scheduler.png';
+// import WDS from '../Assets/Images/work-day-scheduler.png';
 
 const projects = [
     {
