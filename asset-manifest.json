@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/VimukthiGunasekara/react-portfolio/static/css/main.63e5056a.css",
+    "main.js": "/VimukthiGunasekara/react-portfolio/static/js/main.7c020ecd.js",
+    "static/media/get.gif": "/VimukthiGunasekara/react-portfolio/static/media/get.ed8d5b0fe871b9ea87eb.gif",
+    "static/media/profile-image.jpg": "/VimukthiGunasekara/react-portfolio/static/media/profile-image.eadd500ab22416dec579.jpg",
+    "static/media/weather-dashboard.png": "/VimukthiGunasekara/react-portfolio/static/media/weather-dashboard.a4ab1837c69c58b77d34.png",
+    "static/media/vpac.png": "/VimukthiGunasekara/react-portfolio/static/media/vpac.da70c9d15468d6a55ef7.png",
+    "static/media/budget-tracker.png": "/VimukthiGunasekara/react-portfolio/static/media/budget-tracker.3f8fdb99f628ecb99f83.png",
+    "static/media/team-profile-generator.png": "/VimukthiGunasekara/react-portfolio/static/media/team-profile-generator.ead1b7787150be2ebeb4.png",
+    "static/media/kanban-board.png": "/VimukthiGunasekara/react-portfolio/static/media/kanban-board.bd163c924de429fde064.png",
+    "index.html": "/VimukthiGunasekara/react-portfolio/index.html",
+    "main.63e5056a.css.map": "/VimukthiGunasekara/react-portfolio/static/css/main.63e5056a.css.map",
+    "main.7c020ecd.js.map": "/VimukthiGunasekara/react-portfolio/static/js/main.7c020ecd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63e5056a.css",
+    "static/js/main.7c020ecd.js"
+  ]
+}
