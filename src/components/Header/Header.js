@@ -18,7 +18,11 @@ function Header({ currentPage, handlePageChange }) {
                                 Projects
                             </a>
                         </li>
-
+                        <li className="nav-item">
+                            <a href="#contact" onClick={() => handlePageChange('Contact')} className={currentPage === 'Contact' ? 'active navitems' : 'navitemsAct'} >
+                                Contact
+                            </a>
+                        </li>
                     </ul>
                 </nav>
             </div>

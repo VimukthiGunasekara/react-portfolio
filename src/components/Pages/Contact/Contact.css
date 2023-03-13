@@ -1,0 +1,12 @@
+.text{
+    color: var(--clr-fg);
+}
+.bgBtn{
+    background-color: var(--clr-fg);
+    color: var(--clr-bg);
+}
+
+.bgBtn :hover{
+    color: var(--clr-fg);
+    background-color: var(--clr-bg);
+}
