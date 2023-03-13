@@ -18,7 +18,7 @@
   
 ## 🚀 [Links](#table-of-contents)
 
-Deployed URL: 
+Deployed URL: https://vimukthigunasekara.github.io/react-portfolio/
 <br>
 GitHub Repo URL: https://github.com/VimukthiGunasekara/react-portfolio
 
