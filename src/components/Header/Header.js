@@ -23,6 +23,11 @@ function Header({ currentPage, handlePageChange }) {
                                 Contact
                             </a>
                         </li>
+                        <li className="nav-item">
+                            <a href="https://drive.google.com/file/d/1SZAXvvPk_i8lrzt4VefcpWjgfGep0pra/view?usp=share_link" className={currentPage === 'Contact' ? 'active navitems' : 'navitemsAct'} >
+                                Resume
+                            </a>
+                        </li>
                     </ul>
                 </nav>
             </div>
